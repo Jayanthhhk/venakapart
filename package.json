@@ -1,19 +1,25 @@
 {
   "name": "venakapart",
   "version": "1.0.0",
-  "description": "a basic app to deploy",
+  "description": " backend learning from scrach to advanced",
   "keywords": [
-    "node"
+    "javascript",
+    "backend",
+    "jay"
   ],
+  "homepage": "https://github.com/Jayanthhhk/venakapart#readme",
+  "bugs": {
+    "url": "https://github.com/Jayanthhhk/venakapart/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayanthhhk/venakapart.git"
+  },
   "license": "ISC",
-  "author": "jayanth",
+  "author": "Jayanth",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "dotenv": "^16.4.7",
-    "express": "^5.1.0"
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
